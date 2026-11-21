@@ -1,0 +1,76 @@
+{
+  "Title": "Traveling",
+  "SourceLanguage": 0,
+  "TargetLanguage": 2,
+  "Words": [
+    {
+      "Word": "journey",
+      "Translations": [
+        "подорож",
+        "поїздка"
+      ]
+    },
+    {
+      "Word": "trip",
+      "Translations": [
+        "поїздка",
+        "мандрівка"
+      ]
+    },
+    {
+      "Word": "luggage",
+      "Translations": [
+        "багаж",
+        "поклажа"
+      ]
+    },
+    {
+      "Word": "ticket",
+      "Translations": [
+        "квиток",
+        "білет"
+      ]
+    },
+    {
+      "Word": "airport",
+      "Translations": [
+        "аеропорт"
+      ]
+    },
+    {
+      "Word": "station",
+      "Translations": [
+        "станція",
+        "вокзал"
+      ]
+    },
+    {
+      "Word": "passenger",
+      "Translations": [
+        "пасажир",
+        "подорожній"
+      ]
+    },
+    {
+      "Word": "destination",
+      "Translations": [
+        "пункт призначення",
+        "місце прибуття"
+      ]
+    },
+    {
+      "Word": "arrive",
+      "Translations": [
+        "прибувати",
+        "приїжджати"
+      ]
+    },
+    {
+      "Word": "depart",
+      "Translations": [
+        "відправлятися",
+        "вирушати"
+      ]
+    }
+  ]
+}

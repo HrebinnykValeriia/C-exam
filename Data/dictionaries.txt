@@ -1,0 +1,4 @@
+3
+Haushalt---Data/Dictionaries/Haushalt.json
+Traveling---Data/Dictionaries/Traveling.json
+Education---Data/Dictionaries/Education.json

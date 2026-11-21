@@ -1,0 +1,4 @@
+Word: die Wohnung
+Translations:
+ квартира
+ помешкання

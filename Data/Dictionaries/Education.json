@@ -1,0 +1,144 @@
+{
+  "Title": "Education",
+  "SourceLanguage": 2,
+  "TargetLanguage": 0,
+  "Words": [
+    {
+      "Word": "знання",
+      "Translations": [
+        "knowledge"
+      ]
+    },
+    {
+      "Word": "навичка",
+      "Translations": [
+        "skill",
+        "ability"
+      ]
+    },
+    {
+      "Word": "предмет",
+      "Translations": [
+        "subject"
+      ]
+    },
+    {
+      "Word": "заняття",
+      "Translations": [
+        "lesson",
+        "class"
+      ]
+    },
+    {
+      "Word": "диплом",
+      "Translations": [
+        "degree",
+        "diploma"
+      ]
+    },
+    {
+      "Word": "іспит",
+      "Translations": [
+        "exam",
+        "examination"
+      ]
+    },
+    {
+      "Word": "помилка",
+      "Translations": [
+        "mistake",
+        "error"
+      ]
+    },
+    {
+      "Word": "покращувати",
+      "Translations": [
+        "improve",
+        "enhance"
+      ]
+    },
+    {
+      "Word": "пояснювати",
+      "Translations": [
+        "explain",
+        "clarify"
+      ]
+    },
+    {
+      "Word": "практика",
+      "Translations": [
+        "practice",
+        "training"
+      ]
+    },
+    {
+      "Word": "розмова",
+      "Translations": [
+        "conversation",
+        "talk"
+      ]
+    },
+    {
+      "Word": "думка",
+      "Translations": [
+        "opinion",
+        "view"
+      ]
+    },
+    {
+      "Word": "порада",
+      "Translations": [
+        "advice",
+        "recommendation"
+      ]
+    },
+    {
+      "Word": "почуття",
+      "Translations": [
+        "feeling",
+        "emotion"
+      ]
+    },
+    {
+      "Word": "впевненість",
+      "Translations": [
+        "confidence",
+        "self-assurance"
+      ]
+    },
+    {
+      "Word": "стосунки",
+      "Translations": [
+        "relationship",
+        "relations"
+      ]
+    },
+    {
+      "Word": "погоджуватися",
+      "Translations": [
+        "agree"
+      ]
+    },
+    {
+      "Word": "відмовлятися",
+      "Translations": [
+        "refuse",
+        "decline"
+      ]
+    },
+    {
+      "Word": "хвилюватися",
+      "Translations": [
+        "worry",
+        "be concerned"
+      ]
+    },
+    {
+      "Word": "підтримувати",
+      "Translations": [
+        "support",
+        "encourage"
+      ]
+    }
+  ]
+}

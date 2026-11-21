@@ -1,0 +1,52 @@
+{
+  "Title": "Haushalt",
+  "SourceLanguage": 1,
+  "TargetLanguage": 2,
+  "Words": [
+    {
+      "Word": "das Haus",
+      "Translations": [
+        "будинок",
+        "оселя"
+      ]
+    },
+    {
+      "Word": "die Wohnung",
+      "Translations": [
+        "квартира",
+        "помешкання"
+      ]
+    },
+    {
+      "Word": "das Zimmer",
+      "Translations": [
+        "кімната",
+        "приміщення"
+      ]
+    },
+    {
+      "Word": "die Küche",
+      "Translations": [
+        "кухня"
+      ]
+    },
+    {
+      "Word": "das Badezimmer",
+      "Translations": [
+        "ванна кімната"
+      ]
+    },
+    {
+      "Word": "das Fenster",
+      "Translations": [
+        "вікно"
+      ]
+    },
+    {
+      "Word": "die Tür",
+      "Translations": [
+        "двері"
+      ]
+    }
+  ]
+}
